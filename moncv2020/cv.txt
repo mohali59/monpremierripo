@@ -1,0 +1,62 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>moncv</title>
+</head>
+<body>
+    <div class="page">
+        <div class="infophoto">
+            <p><strong>Haigie Mohamed-ali</strong><br>
+                Né le 14 fevrier 1992</p>
+            <p>43 rue de la rondelle - 59100 Roubaix<br>
+                0786139228<br>
+                mohali59@icloud.com</p>
+            <P>Permis B (voiture)</P>
+            <div class="foto">
+                <img src="photoali.jpg" alt="photo cv ali"/>
+            </div>
+        </div>
+    </div>
+    <div class="section">
+        <div class="section-gauche">
+            <P>2020-auj</P>
+            <p>2009-2019</p>
+            <p>2005-2009</p>
+        </div>
+        <div class="section-droite">
+            <p><span class= "titre">AFPA Roubaix </span><br>
+            bac+2 developpeur web et web mobile
+        </p><p><span class= "titre">CSS, HTML,PHP</span><br>chargé
+        de creer un site internet</p>
+        </div>
+    </div>
+    <div class="section">
+        <div class="section-gauche">
+            <p>2003-2005<br><span class="duree">(6 mois)</span></p>
+            <p>2001-2003<br><span class="duree">(6 mois)</span></p>
+        </div>
+        <div class="section-droite">
+            <p><span class=</p>
+        </div>
+    </div>
+    <div class="section">
+        <div class="section-gauche">
+            <P>anglais : <br>
+            arabe :</P>
+            <p>informatique </p>
+        </div>
+        <div class="section-droite">
+        </div>
+    </div>
+    <div class="section">
+        <div class="section-gauche">
+            <P>2011-2013</P>
+            <P>mai 2012<br><span class= "duree">(24 jours)</span></P>
+        </div>
+        <div class="section-droite">
+        </div>
+    </div>
+</body>
+</html>
